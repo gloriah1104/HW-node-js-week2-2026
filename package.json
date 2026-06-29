@@ -8,8 +8,8 @@
     "test": "jest --runInBand"
   },
   "dependencies": {
-    "dotenv": "^16.4.5",
-    "formidable": "^3.5.2"
+    "dotenv": "^16.6.1",
+    "formidable": "^3.5.4"
   },
   "devDependencies": {
     "jest": "^29.7.0",
